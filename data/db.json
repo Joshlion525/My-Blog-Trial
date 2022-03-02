@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Icons for Global Use",
+      "body": "You probably want to use our icons in more than one component in your project, right? Importing icons into each of your project’s components can be really tedious and prone to display errors - especially over time.\n\nInstead, you can add them once in your React application and reference them in any component. We recommend importing them via a “library” in the initializing module of your React application.",
+      "author": "Josh",
+      "id": 1
+    },
+    {
+      "title": "Senior Web App Designer",
+      "body": "Design your lifestyle with the freedom to work however, wherever — on your terms.\n\nFreelance work is defining the careers of today’s designers in exciting new ways. If you’re passionate about working flexibly with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career move.\n\nToptal is an elite talent network for the world’s top 3% of Web App designers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. Jobs come to you, so you won’t bid for projects against other designers in a race to the bottom. Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time.\n\nAs a freelance designer, you’ll instantly join a thriving community of experts in over 120 countries. Work remotely on projects that meet your career ambitions, and expand your impact through networking events, volunteering, publishing, public speaking opportunities, and more.\n\nThat’s why the world’s top 3% of designers choose Toptal. Designers in our elite network share:\nEnglish language proficiency\nAt least 3 years of professional experience as a Web App designer\nProject management skills\nA keen attention to detail\n\nIf you’re ready for a career shift to impactful freelance work, take the next step in your career by filling out this short form: https://topt.al/RQcMBj\nApply for this position\nShare this job:\n",
+      "author": "Dev",
+      "id": 2
+    },
+    {
+      "title": "The Goat",
+      "body": "Ronaldo is the goat of football ",
+      "author": "A footballer",
+      "id": 3
+    }
+  ]
+}
